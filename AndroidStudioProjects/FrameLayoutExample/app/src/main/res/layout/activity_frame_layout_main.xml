@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gl.framelayoutexample.FrameLayoutMain">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView1"
+        android:layout_gravity="center"
+        android:background="@drawable/jellybean"
+        android:onClick="imageClick"
+
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center"
+        android:background="@drawable/kitkat"
+        android:visibility="invisible"
+        android:onClick="imageClick" />
+
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/imageView3"
+    android:layout_gravity="center"
+    android:background="@drawable/lollipop"
+    android:visibility="invisible"
+    android:onClick="imageClick" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView4"
+        android:layout_gravity="center"
+        android:background="@drawable/froyo"
+        android:visibility="invisible"
+        android:onClick="imageClick" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView5"
+        android:layout_gravity="center"
+        android:background="@drawable/honeycombbee"
+        android:visibility="invisible"
+        android:onClick="imageClick" />
+</FrameLayout>

@@ -1,0 +1,24 @@
+{
+  "networkconfiguration": {
+    "baseurl": "www.mybaserestrequse.com/something",
+    "networkobject": [
+      {
+        "id": "getmenu",
+        "requestMethod": "GET",
+        "uri": "/getmenu"
+      },
+      {
+        "id": "getorder",
+        "requestMethod": "POST",
+        "uri": "/getorder"
+      }
+    ]
+  },
+  "aboutapplicationConfiguration": {
+    "version": "1.0",
+    "contactemail": "support@foodzilla.com",
+    "contactextension": "777",
+    "contactphone":"123456789"
+  },
+  "isLogEnabled": true
+}

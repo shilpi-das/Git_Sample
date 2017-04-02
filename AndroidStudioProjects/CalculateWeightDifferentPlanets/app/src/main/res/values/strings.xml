@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculateWeightDifferentPlanets</string>
+    <string name="tv_weight">Your Weight is</string>
+    <string name="tv_weight_enter">Enter your weight  here -></string>
+    <string name="tv_mercury">mercury</string>
+    <string name="tv_venus">venus</string>
+    <string name="tv_moon">moon</string>
+    <string name="tv_mars">mars</string>
+    <string name="tv_jupiter">jupiter</string>
+    <string name="tv_uranus">uranus</string>
+    <string name="tv_saturn">saturn</string>
+    <string name="tv_neptune">neptune</string>
+    <string name="tv_pluto">pluto</string>
+    <string name="tv_kg">kg</string>
+    <string name="b_calculate">Calculate</string>
+    <string name="tv_planets">The Planets</string>
+
+</resources>

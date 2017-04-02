@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:background="#FFFFFF"
+    >
+
+    <ImageView
+        android:id="@+id/ivProfilePicture"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/tvNameNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:text="@string/demo_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_alignStart="@+id/tvDuration"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <TextView
+        android:id="@+id/tvDuration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:text="@string/demo_text"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/tvNameNumber"
+        android:layout_toEndOf="@+id/ivProfilePicture"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <TextView
+        android:id="@+id/tvTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/demo_text"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/accept"
+        android:id="@+id/btnAccept"
+        android:visibility="gone"
+        android:layout_below="@+id/ivProfilePicture"
+        android:layout_toEndOf="@+id/tvNameNumber" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/decline"
+        android:id="@+id/btnDecline"
+        android:layout_alignTop="@+id/btnAccept"
+        android:layout_alignParentEnd="true"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>
+

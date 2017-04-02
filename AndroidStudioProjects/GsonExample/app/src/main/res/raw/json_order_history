@@ -1,0 +1,65 @@
+[{
+    "id": "13",
+    "amt": "80",
+    "itemList": [
+      {
+        "id": "28",
+        "name": "Haldirams Mixture",
+        "locationName": "NAGPUR",
+        "quantity": 2,
+        "units": "180",
+        "prize": 30,
+        "action": null,
+        "itemCreatedDate": 1472710097282,
+        "itemUpdatedDate": 1473317999371,
+        "availbleQty": 8
+      },
+      {
+        "id": "26",
+        "name": "Haldirams Khattameetha",
+        "locationName": "NAGPUR",
+        "quantity": 2,
+        "units": "60",
+        "prize": 10,
+        "action": null,
+        "itemCreatedDate": 1472710097275,
+        "itemUpdatedDate": 1472710097275,
+        "availbleQty": 6
+      }
+    ],
+    "status": "ordered",
+    "orderCreatedDate": "2016-09-08 06:28:01 PM"
+  },
+  {
+    "id": "12",
+    "amt": "50",
+    "itemList": [
+      {
+        "id": "32",
+        "name": "Haldirams Peanuts",
+        "locationName": "NAGPUR",
+        "quantity": 1,
+        "units": "60",
+        "prize": 10,
+        "action": null,
+        "itemCreatedDate": 1472710097294,
+        "itemUpdatedDate": 1473312416376,
+        "availbleQty": 7
+      },
+      {
+        "id": "31",
+        "name": "Chakali",
+        "locationName": "NAGPUR",
+        "quantity": 1,
+        "units": "180",
+        "prize": 40,
+        "action": null,
+        "itemCreatedDate": 1472710097292,
+        "itemUpdatedDate": 1473260384079,
+        "availbleQty": 8
+      }
+    ],
+    "status": "ordered",
+    "orderCreatedDate": "2016-09-08 12:33:34 PM"
+  }
+]

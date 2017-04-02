@@ -1,0 +1,11 @@
+<resources>
+    <string name="tv_height">Enter Height</string>
+    <string name="tv_weight">Enter Weight</string>
+    <string name="b_calculate">Calculate BMI</string>
+    <string name="app_name">CalculateBMI</string>
+    <string name="tv_kg">kg</string>
+    <string name="tv_m">m</string>
+    <string name="tv_calculate_BMI">BMI Calculate</string>
+    <string name="tv">Being Healthy is a lifestyle not a diet!!!!</string>
+
+</resources>

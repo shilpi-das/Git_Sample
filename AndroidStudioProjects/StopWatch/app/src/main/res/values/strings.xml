@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="demo_text">Demo Text</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="decline_action">com.gl.declineAction</string>
+    <string name="accept_action">com.gl.acceptAction</string>
+    <string name="id">ID</string>
+</resources>

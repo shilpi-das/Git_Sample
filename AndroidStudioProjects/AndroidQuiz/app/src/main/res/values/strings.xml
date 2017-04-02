@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string-array name="ar_answers">
+        <item>Lollipop  Froyo\n\n</item>
+        <item>Service  Activity\n\n </item>
+        <item>Linear Layout Relative Layout\n\n</item>
+        <item>Activity\n\n</item>
+        <item>HoneyComb\n\n</item>
+        <item>False</item>
+    </string-array>
+
+    <string name="Q1_Option1">Lollipop</string>
+    <string name="Q1_Option2">Froyo</string>
+    <string name="Q1_Option3">Nankhatayi</string>
+
+    <string name="Q2_Option1">Service</string>
+    <string name="Q2_Option2">Intent</string>
+    <string name="Q2_Option3">Activity</string>
+
+    <string name="Q3_Option1">Relative Layout</string>
+    <string name="Q3_Option2">Linear Layout</string>
+    <string name="Q3_Option3">TextView</string>
+
+    <string name="Q4_Option1">Activity</string>
+    <string name="Q4_Option2">AppCompactActvity</string>
+
+    <string name="Q5_Option1">Honeycomb</string>
+    <string name="Q5_Option2">Kitkat</string>
+    <string name="Q5_Option3">Froyo</string>
+
+    <string name="Q6_Option1">True</string>
+    <string name="Q6_Option2">False</string>
+
+    <string name="Q1">Q1 Which of the following are android versions?</string>
+    <string name="Q2">Q2 What are 4 basic components of android?</string>
+    <string name="Q3">Q3 Which of the following are view groups?</string>
+    <string name="Q4">Q4 What is base class in API level 21?</string>
+    <string name="Q5">Q5 Fragments were introduced in</string>
+    <string name="Q6">Q6 To design UI is XML mandatory?</string>
+
+    <string-array name="ar_questions">
+        <item>Q1 Which of the following are android versions?</item>
+        <item>Q2 What are 4 basic components of android?</item>
+        <item>Q3 Which of the following are view groups?</item>
+        <item>Q4 What is base class in API level 21?</item>
+        <item>Q5 Fragments were introduced in</item>
+        <item>Q6 To design UI is XML mandatory?</item>
+    </string-array>
+
+    <string name="tv_question_nos">Question Nos</string>
+    <string name="tv_your_ans">Your Answer</string>
+    <string name="tv_actual_ans">Actual Answer</string>
+</resources>

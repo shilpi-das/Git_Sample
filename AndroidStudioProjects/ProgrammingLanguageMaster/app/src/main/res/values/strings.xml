@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" >ProgrammingLanguageMaster</string>
+    <string name="button">Submit</string>
+
+    <string-array name="Month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="Count">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="Programming_Language">
+        <item>Java</item>
+        <item>Dot net</item>
+        <item>C#</item>
+        <item>Dart</item>
+        <item>Go</item>
+        <item>Haskel</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Cobol</item>
+        <item>JavaScript</item>
+    </string-array>
+
+    <plurals name="Language">
+        <item quantity="zero" >There is %1$d programming language associated with %2$s </item>
+        <item quantity="one">There is %1$d programming language associated with  %2$s </item>
+        <item quantity="other">There are %1$d programming languages associated with %2$s </item>
+    </plurals>
+
+
+</resources>

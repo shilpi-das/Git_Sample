@@ -1,0 +1,49 @@
+[{
+  "_id": "30",
+  "name": "Haldirams Instant Bhel",
+  "locationName": "NAGPUR",
+  "quantity": 15,
+  "units": "55",
+  "prize": 10,
+  "action": null,
+  "itemCreatedDate": 1472710097286,
+  "itemUpdatedDate": 1473430995955,
+  "trendingItem": true,
+  "newItem": false
+}, {
+  "_id": "28",
+  "name": "Haldirams Mixture",
+  "locationName": "NAGPUR",
+  "quantity": 11,
+  "units": "180",
+  "prize": 30,
+  "action": null,
+  "itemCreatedDate": 1472710097282,
+  "itemUpdatedDate": 1473746340721,
+  "trendingItem": true,
+  "newItem": false
+}, {
+  "_id": "27",
+  "name": "Haldirams Khattameetha",
+  "locationName": "NAGPUR",
+  "quantity": 7,
+  "units": "180",
+  "prize": 30,
+  "action": null,
+  "itemCreatedDate": 1472710097278,
+  "itemUpdatedDate": 1473746340727,
+  "trendingItem": true,
+  "newItem": false
+}, {
+  "_id": "33",
+  "name": "Dairy  milk",
+  "locationName": "NAGPUR",
+  "quantity": 10,
+  "units": "10",
+  "prize": 10,
+  "action": null,
+  "itemCreatedDate": 1473761448473,
+  "itemUpdatedDate": 1473761448473,
+  "trendingItem": false,
+  "newItem": true
+}]
