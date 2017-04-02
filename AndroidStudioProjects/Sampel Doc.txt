@@ -3,5 +3,3 @@ Hello
 Hi 
 
 How are you
-
-Go away
